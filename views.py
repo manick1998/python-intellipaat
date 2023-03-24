@@ -36,6 +36,7 @@ from rest_framework.status import (
     HTTP_200_OK,
 )
 
+#forgot password
 @api_view(["POST"])
 @permission_classes([AllowAny,])
 def forgot_password(request):

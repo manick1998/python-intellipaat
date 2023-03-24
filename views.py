@@ -2043,6 +2043,11 @@ def most_searched_categories_based_on_location(request):
 #   main()
 
 
+#adding new functions
+def login_sample(request):
+    pass
+
+
 
 
     
